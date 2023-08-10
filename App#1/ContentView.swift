@@ -22,7 +22,7 @@ struct ContentView: View {
                 .padding([.leading, .bottom, .trailing])
                 .border(/*@START_MENU_TOKEN@*/Color.yellow/*@END_MENU_TOKEN@*/, width: /*@START_MENU_TOKEN@*/1/*@END_MENU_TOKEN@*/)
             
-            Text("EMELY!")
+            Text("!EMELY!")
                 .font(.largeTitle)
                 .font(.largeTitle)
                 .fontWeight(.semibold)
